@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+/php.ini
+node_modules/
+vendor/
+dist/
+.phpunit.cache/
+*.log
+.DS_Store
+Thumbs.db
